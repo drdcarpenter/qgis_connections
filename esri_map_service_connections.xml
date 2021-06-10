@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsARCGISMAPSERVERConnections version="1.0">
+    <arcgismapserver name="UK admin boundaries" url="https://ons-inspire.esriuk.com/arcgis/rest/services/Eurostat_Boundaries/Local_Administrative_Units_Level_1_January_2018_Boundaries/MapServer/" username="" referer="" authcfg="" password=""/>
+</qgsARCGISMAPSERVERConnections>

@@ -1,0 +1,5 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver name="Unitary and District boundaries" url="https://ons-inspire.esriuk.com/arcgis/rest/services/Eurostat_Boundaries/Local_Administrative_Units_Level_1_January_2018_Boundaries/FeatureServer" username="" referer="" authcfg="" password=""/>
+    <arcgisfeatureserver name="Counties and Unitary Authorities" url="https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Counties_and_Unitary_Authorities_December_2020_UK_BUC_V2/FeatureServer/" username="" referer="" authcfg="" password=""/>
+</qgsARCGISFEATURESERVERConnections>
