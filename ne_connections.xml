@@ -1,0 +1,15 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/SSSI_England/FeatureServer/" authcfg="" name="SSSIs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Special_Areas_of_Conservation_England/FeatureServer/" authcfg="" name="SACs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Special_Protection_Areas_England/FeatureServer/" authcfg="" name="SPAs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/National_Nature_Reserves_England/FeatureServer/" authcfg="" name="NNRs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Local_Nature_Reserves_England/FeatureServer/" authcfg="" name="LNRs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Ramsar_England/FeatureServer/" authcfg="" name="Ramsar" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Ancient_Woodland_England/FeatureServer/" authcfg="" name="Ancient Woodland" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Areas_of_Outstanding_Natural_Beauty_England/FeatureServer/" authcfg="" name="AONBs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Marine_Conservation_Zones_England/FeatureServer/" authcfg="" name="MCZs" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Heritage_Coasts_England/FeatureServer/" authcfg="" name="Heritage Coasts" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/National_Character_Areas_England/FeatureServer/" authcfg="" name="National Character Areas" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/National_Parks_England/FeatureServer/" authcfg="" name="National Parks" username="" password=""/>
+</qgsARCGISFEATURESERVERConnections>
