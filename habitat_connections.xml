@@ -1,0 +1,6 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Priority_Habitat_Inventory_England_Central/FeatureServer/" authcfg="" name="Priority Habitats (Central)" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Priority_Habitat_Inventory_England_South/FeatureServer/" authcfg="" name="Priority Habitats (South)" username="" password=""/>
+    <arcgisfeatureserver referer="" url="https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Priority_Habitat_Inventory_England_North/FeatureServer/" authcfg="" name="Priority Habitats (North)" username="" password=""/>
+</qgsARCGISFEATURESERVERConnections>
